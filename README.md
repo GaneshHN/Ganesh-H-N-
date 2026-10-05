@@ -20,6 +20,7 @@ Passionate about full-stack development, AI, and building real-world solutions.
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Mysql](https://www.logo.wine/logo/MySQL)
 
 ### 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
